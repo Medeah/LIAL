@@ -1,0 +1,1 @@
+function y = rotdeg(x)%rotdeg creates a 2 by 2 rotation matrix of x degreest = x*pi/180;y = [cos(t) -sin(t);sin(t) cos(t)];
